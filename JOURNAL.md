@@ -18,3 +18,15 @@ OK, to simplify, just use the board schematics from the Patchouli project to mak
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTkwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--1d29a10f06378b19e92a3c588e1665a2192f3354/image.png)
   
 
+## 11/5/2025 - Found Documentation and Studied It  
+
+schedule's been rough lately (exams)
+anyways i went back to the video and noticed there is a documentation for this (i was gonna lose it) which explained everything in pretty good way, 
+here is the link ==> https://patchouli.readthedocs.io/en/latest
+So basically when the stylus receives the frequencies, they get induced by a solenoid like structure in the stylus to get small electric currents which when flow into the board help magnify the waves in that region which is triangulated by the chip after a bit of amplification and BOOM!!! Location is calculated and sent through the cable. 
+To sense clicks, the tip of the stylus is push able and connected to a variable capacitor which helps in altering the frequency signals emitted by it which is also understood by the chip.
+The Diagram for the board is attached below,
+![Diagram1](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODY1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--dc4f2f98ec469443accf8789be16917a9d7abb74/Diagram1.png)
+![Diagram2](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODY1NywicHVyIjoiYmxvYl9pZCJ9fQ==--9aafa3a070fb33139296c03cda7d7506ce980580/Diagram2.png)
+  
+
